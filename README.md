@@ -2,7 +2,5 @@
 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=LuoTianOrange&show_icons=true&theme=default)
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=LuoTianOrange&layout=compact&theme=default)
-<!---
-LuoTianOrange/LuoTianOrange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![B站统计](https://stats.justsong.cn/api/bilibili/?id=33256434&theme=default)
