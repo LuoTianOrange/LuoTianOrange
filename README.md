@@ -3,4 +3,4 @@
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=LuoTianOrange&show_icons=true&theme=default)
 ![GitHub账户最常用语言](https://github-stats.ubrong.com/api/top-langs/?username=LuoTianOrange&layout=compact&theme=default)
 
-![B站统计](https://stats.justsong.cn/api/bilibili/?id=33256434&theme=default)
+![B站统计](https://stats.justsong.cn/api/bilibili/?id=32256434&theme=default)
