@@ -17,10 +17,31 @@ hobbies:
   - 聊天
 ```
 
+##  技术栈
+
+<div align="left">
+
+###  语言 & 框架
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+###  开发工具
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+</div>
+
 ##  联系方式
+
+<div align="left">
 
 [![Blog](https://img.shields.io/badge/📝_个人博客-blog.nekoorange.cn-orange?style=for-the-badge)](https://blog.nekoorange.cn)
 [![QQ Group](https://img.shields.io/badge/🐱_猫窝-711755188-blue?style=for-the-badge)](https://qm.qq.com/q/711755188)
+
+</div>
 
 ##  数据统计
 
@@ -34,7 +55,7 @@ hobbies:
 
 <div align="center">
 
-| Bilibili | Steam |
+|  Bilibili |  Steam |
 |:---:|:---:|
 | <img src="https://stats.justsong.cn/api/bilibili/?id=32256434&theme=light&lang=zh-CN" width="100%"> | <img src="https://stats.justsong.cn/api/steam/?id=&theme=light" width="100%"> |
 
